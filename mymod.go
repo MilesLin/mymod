@@ -3,5 +3,5 @@ package mymod
 import "fmt"
 
 func Version() {
-	fmt.Println("Version v1.0.0")
+	fmt.Println("Version v1.0.1")
 }
