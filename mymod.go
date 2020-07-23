@@ -2,6 +2,6 @@ package mymod
 
 import "fmt"
 
-func Version() {
-	fmt.Println("Version v1.2.0")
+func Version(v string) {
+	fmt.Println("Version v2.0.0." + v)
 }
