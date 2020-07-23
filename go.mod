@@ -1,3 +1,3 @@
-module github.com/MilesLin/mymod/v2
+module github.com/MilesLin/mymod
 
 go 1.14
